@@ -1,0 +1,22 @@
+@import 'antd/dist/antd.css';
+
+body{
+  background-color: #0d172b;
+}
+#root{
+  height: 100%;
+}
+
+.site-layout{
+  min-height: 100%;
+}
+
+.text-white{
+  color: whitesmoke !important;
+}
+.transparent-bg{
+  background-color: transparent;
+}
+.center-text{
+  text-align: center;
+}
